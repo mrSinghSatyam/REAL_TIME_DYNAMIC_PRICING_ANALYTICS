@@ -134,7 +134,7 @@ The Power BI dashboard provides:
 - Time period
 
 ### Dashboard Preview
-![Dynamic Pricing Dashboard](documentation/dashboard.png)
+![Dynamic Pricing Dashboard](documentation/Dashboard.png)
 
 ---
 
