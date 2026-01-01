@@ -58,6 +58,7 @@ REAL_TIME_DYNAMIC_PRICING_ANALYTICS/
 │
 ├── raw_data/ # Raw datasets (ignored in Git)
 ├── cleaned_data/ # Processed datasets (ignored in Git)
+│
 ├── scripts/ # Python scripts
 │ ├── clean_data.py
 │ ├── feature_engineering.py
@@ -65,6 +66,7 @@ REAL_TIME_DYNAMIC_PRICING_ANALYTICS/
 │ └── dynamic_pricing.py
 │
 ├── powerbi/ # Power BI dashboards (.pbix ignored)
+│
 ├── documentation/
 │ └── dashboard.png # Dashboard preview
 │
