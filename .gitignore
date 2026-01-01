@@ -1,0 +1,8 @@
+# Ignore Data files
+raw_data/
+cleaned_data
+*.csv
+*.xlsx
+
+__pychache__/
+*.pyc
