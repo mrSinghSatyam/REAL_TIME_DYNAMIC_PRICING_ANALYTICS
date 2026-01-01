@@ -56,22 +56,24 @@ The project uses a **relational e-commerce dataset** containing:
 ## 🏗️ Project Structure
 REAL_TIME_DYNAMIC_PRICING_ANALYTICS/
 │
-├── raw_data/ # Raw datasets (ignored in Git)
-├── cleaned_data/ # Processed datasets (ignored in Git)
+├── raw_data/                     # Raw datasets (ignored in Git)
 │
-├── scripts/ # Python scripts
-│ ├── clean_data.py
-│ ├── feature_engineering.py
-│ ├── merge_data.py
-│ └── dynamic_pricing.py
+├── cleaned_data/                 # Processed datasets (ignored in Git)
 │
-├── powerbi/ # Power BI dashboards (.pbix ignored)
+├── scripts/                      # Python scripts
+│   ├── clean_data.py             # Data cleaning & validation
+│   ├── feature_engineering.py    # Feature creation
+│   ├── merge_data.py             # Dataset merging
+│   └── dynamic_pricing.py        # Dynamic pricing logic
 │
-├── documentation/
-│ └── dashboard.png # Dashboard preview
+├── powerbi/                      # Power BI assets
+│   └── dashboard.png             # Dashboard preview
 │
-├── .gitignore
-└── README.md
+├── documentation/                # Project documentation
+│
+├── .gitignore                    # Git ignore rules
+├── README.md                     # Project overview
+
 
 
 ---
