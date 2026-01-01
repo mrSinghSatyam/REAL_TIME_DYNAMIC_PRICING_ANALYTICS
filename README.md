@@ -54,6 +54,7 @@ The project uses a **relational e-commerce dataset** containing:
 ---
 
 ## 🏗️ Project Structure
+```text
 REAL_TIME_DYNAMIC_PRICING_ANALYTICS/
 │
 ├── raw_data/                     # Raw datasets (ignored in Git)
@@ -74,7 +75,7 @@ REAL_TIME_DYNAMIC_PRICING_ANALYTICS/
 ├── .gitignore                    # Git ignore rules
 ├── README.md                     # Project overview
 
-
+```
 
 ---
 
